@@ -5,11 +5,5 @@
   "website": "https://github.com/aswifi/KodExplorer",
   "repository": "https://github.com/aswifi/KodExplorer",
   "keywords": ["KodExplorer","Heroku"],
-  "success_url": "/",
-  "require": {
-        "php": ">=7.3.0",
-        "ext-fileinfo": "*",
-        "ext-mbstring": "*",
-        "ext-gd": "*"
-    }
+  "success_url": "/"
 }
