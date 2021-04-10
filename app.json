@@ -1,0 +1,13 @@
+{
+  "name": "KodExplorer",
+  "description": "KodExplorer",
+  "website": "https://github.com/aswifi/KodExplorer",
+  "repository": "https://github.com/aswifi/KodExplorer",
+  "keywords": ["KodExplorer","Heroku"],
+  "success_url": "/",
+  "buildpacks": [
+    {
+      "url": "https://github.com/heroku/heroku-buildpack-static"
+    }
+  ]
+}
