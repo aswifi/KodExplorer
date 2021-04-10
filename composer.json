@@ -1,8 +1,9 @@
 {
   "require": {
-        "php": ">=7.3.0",
-        "ext-fileinfo": "*",
+        "php": "8.0.2",
+        "ext-gd": "*",
         "ext-mbstring": "*",
-        "ext-gd": "*"
+        "ext-sqlite3": "*",
+        "ext-imagick": "*"  
           }
 }
