@@ -13,9 +13,8 @@
     "prefer-stable": false,
     "prefer-lowest": false,
     "platform": {
-        "php": "7.4.16",
+        "php": "8.0.3",
         "ext-gd": "*",
-        "ext-fileinfo": "*",
         "ext-mbstring": "*",
         "ext-imagick": "*"
     },
