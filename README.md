@@ -1,3 +1,6 @@
+## Heroku Deploy
+[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+
 # KodExplorer
 
 > #### Update to kodbox:  [https://github.com/kalcaddle/kodbox](https://github.com/kalcaddle/kodbox)
@@ -188,6 +191,3 @@ Copyright (C) 2013 kodcloud.com
 
 # 版权声明
 kodexplorer 使用 GPL v3 协议.
-
-## Heroku一键部署
-[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
