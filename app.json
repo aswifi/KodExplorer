@@ -5,6 +5,7 @@
   "website": "https://kodcloud.com",
   "repository": "https://github.com/aswifi/KodExplorer",
   "keywords": ["KodExplorer","Heroku"],
+  "stack": "container",
   "success_url": "/",
   "addons": []
 }
