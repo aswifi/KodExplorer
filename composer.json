@@ -1,7 +1,8 @@
 {
   "require": {
-        "php": "7.1.16",
+        "php": "7.4.16",
         "ext-gd": "*",
+        "ext-fileinfo": "*",
         "ext-mbstring": "*",
         "ext-imagick": "*"
   }
