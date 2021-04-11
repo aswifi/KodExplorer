@@ -6,4 +6,5 @@
   "repository": "https://github.com/aswifi/KodExplorer",
   "keywords": ["KodExplorer","Heroku"],
   "success_url": "/"
+  "addons": []
 }
