@@ -2,9 +2,9 @@
   "name": "KodExplorer-HerokuDeploy",
   "type": "project",
   "description": "KodExplorer-HerokuDeploy",
+  "keywords": ["KodExplorer","Heroku"],
   "website": "https://kodcloud.com",
   "repository": "https://github.com/aswifi/KodExplorer",
-  "keywords": ["KodExplorer","Heroku"],
   "success_url": "/"
   "addons": []
 }
